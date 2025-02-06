@@ -1,4 +1,4 @@
-# 📚 Simple CRUD Application with HTML, CSS, and PHP
+# 📚 Simple CRUD Application with HTML, CSS, and PHP BY Kazibwe Francis
 
 Welcome to my simple CRUD (Create, Read, Update, Delete) application built using **HTML**, **CSS**, and **PHP**. This project demonstrates basic database operations for managing a collection of books. It's a great starting point for anyone learning web development with PHP and MySQL.
 
